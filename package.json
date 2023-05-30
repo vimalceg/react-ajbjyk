@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
-    "react-dom": "^18.1.0",
     "d3-org-chart": "^1.0.12",
-    "d3": "5.15.1"
+    "d3": "5.15.1",
+    "react-dom": "^18.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

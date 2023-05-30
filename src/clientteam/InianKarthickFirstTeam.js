@@ -1,6 +1,7 @@
 export default {
   name: 'Inian Karthick',
-  image: '',
+  image:
+    'https://people.zoho.com/zpeoplehr/viewPhoto?erecno=2803000003314155&mode=1&avatarid=593',
   firstTeam: [
     {
       name: 'Rajalingam',
@@ -20,6 +21,10 @@ export default {
     },
     {
       name: 'Jessinth',
+      image: '',
+    },
+    {
+      name: 'Arun Kumar',
       image: '',
     },
   ],
