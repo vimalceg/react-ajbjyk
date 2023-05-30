@@ -1,6 +1,6 @@
 import vimalFirstTeam from './VimalFirstTeam';
 import prabhuFirstTeam from './PrabhuFirstTeam';
-import inianKarthickFirstTeam from './InianKarthickFirstTeam';
+import jessinthFirstTeam from './jessinthFirstTeam';
 
 import sriramFirstTeam from './sriramFirstTeam';
 import vickyFirstTeam from './vickyFirstTeam';
@@ -16,7 +16,7 @@ export default [
     firstTeam: [
       vimalFirstTeam,
       prabhuFirstTeam,
-      inianKarthickFirstTeam,
+      jessinthFirstTeam,
       sriramFirstTeam,
       vickyFirstTeam,
       kumaresanFirstTeam,

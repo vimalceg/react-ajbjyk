@@ -3,7 +3,11 @@ export default {
   image: '',
   firstTeam: [
     {
-      name: 'Jessinth',
+      name: 'Rajalingam',
+      image: '',
+    },
+    {
+      name: 'SubaSree',
       image: '',
     },
     {
@@ -15,7 +19,11 @@ export default {
       image: '',
     },
     {
-      name: 'Sudalai',
+      name: 'Inian Karthick',
+      image: '',
+    },
+    {
+      name: 'Arun Kumar',
       image: '',
     },
   ],
